@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">News App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="tab_label1">BBC News</string>
+    <string name="tab_label2">CBS News</string>
+    <string name="tab_label3">CNN Spanish</string>
+    <string name="tab_label4">Google News</string>
+    <string name="tab_label5">NBC News</string>
+    <string name="tab_label6">The Washington Post</string>
+    <string name="tab_label7">The Verge</string>
+    <string name="tab_label8">Engadget</string>
+    <string name="tab_label9">Aftenposten</string>
+    <string name="tab_label10">Wired</string>
+
+</resources>
